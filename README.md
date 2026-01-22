@@ -1,63 +1,102 @@
-<h1 align="center">pestiantal1</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%22I+discarded+that+pride...%22;+—+Toji+Fushiguro;+Building+Reliable+Services;+Competitive+Programming+Enthusiast" alt="Toji Quote Typing" />
-</p>
-
-<p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW9idXpsZjh3Z3F6bm5pZ3RxaGZ2ZWRqZndidmR2ZndidmR2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YpYizbOfc32bm/giphy.gif" width="300" />
-</p>
-
-### 👤 Profile
-- 🛠️ **Current Focus:** Leveling up **Competitive Programming** skills and architecting **Private/Public Services**.
-- 🦾 **Philosophy:** Efficiency over everything. Automation > Manual Tasks.
-- 🏋️ **Lifestyle:** Gym, Chess, and Self-Improvement books.
-- ⚙️ **Specialty:** Linux services, system configuration, and electronics.
+<table align="center">
+  <tr>
+    <td width="60%">
+      <h1>pestiantal1</h1>
+      <p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&width=435&lines=No+matter+what...+I'm+clocking+out+by+six.;I+just+got+lucky.;—+Kento+Nanami" alt="Typing SVG" />
+      </p>
+    </td>
+    <td width="40%">
+      <img src="./assets/banner_1.jpg" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### [~/profile.json]
+```json
+{
+  "mission": "Building private / public services, Practicing Competitive Programming",
+  "system_mindset": [
+    "Making machines do my bidding at 3 AM",
+    "Turning coffee into cron jobs",
+    "If it runs twice, it gets automated"
+  ],
+  "daily_drivers": {
+    "Editor": "VSCode",
+    "Shell": "PowerShell",
+    "AI": "Claude Code"
+  },
+  "offline_hooks": [
+    "Gym",
+    "Chess",
+    "Self-improvement literature",
+    "Competitive Games"
+  ]
+}
+```
 
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
-| **Infra/System** | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Service Files](https://img.shields.io/badge/Systemd-Service-lightgrey?style=for-the-badge) |
-| **Editors** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white) |
-| **AI Support** | ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) |
+### [~/tech_stack.sh]
+
+<p align="center"> 
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" /> 
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" /> 
+<img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=white" /> 
+<img src="https://img.shields.io/badge/GDScript-000000?style=for-the-badge&logo=godot-engine&logoColor=white" /> 
+</p>
+
+<p align="center"> 
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" /> 
+<img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" /> 
+</p>
+
+<p align="center"> 
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" /> 
+</p>
+
+<p align="center"> 
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Systemd-000000?style=for-the-badge&logo=linux&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" /> 
+<img src="https://img.shields.io/badge/DigitalOcean-000000?style=for-the-badge&logo=digitalocean&logoColor=white" /> 
+</p>
+
+<p align="center"> 
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" /> 
+</p>
 
 ---
 
-### 📊 Tactical Data (GitHub Stats)
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=aaaaaa&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=000000&fire=ffffff&ring=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_border=true" />
+### [~/statistics]
+<p align="center"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pestiantal1&theme=dark&background=000000&fire=ffffff&ring=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_border=true" /> 
 </p>
 
 ---
 
-### 🤝 Strategic Connections
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/YOUR_X" target="blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR-WEBSITE.com"><img src="https://img.shields.io/badge/Personal%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+### [~/contact.txt]
+<p align="left"> 
+<a href="https://www.linkedin.com/in/antal-pesti-0b7638223/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://x.com/pesti_antal" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" /></a> 
+<a href="https://pantal.dev" target="blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> 
+<a href="https://pantal.dev/projects" target="blank"><img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=github&logoColor=white" /></a> 
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pestiantal1&label=Strategic%20Views&color=000000&style=flat-square" /> </p>
 
 ---
 
-<p align="center">
-  <i>"Hidden Inventory / Tactical Services"</i><br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZ6M3Z6ZG56ZzR5eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/L8K62SMLW6osleYEmR/giphy.gif" width="150" />
-  <br>
-  <sub>Nerdy Automation Mode: ON</sub>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ffffff&style=flat-square" />
+<p align="center"> <img src="./assets/sleeping_pochita.gif" width="120" />
+<br/><br/>
+<code>System Idle: Pochita is watching the build...</code>
 </p>
